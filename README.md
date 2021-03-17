@@ -12,6 +12,8 @@ This is a 1337 school project, all functions except malloc/free/read/write are p
 ## usage examle
 
 >this code for usage example
+
 >![example_img](imgs/get_next_line_example.png)
+
 >this video demonstrate how the example works
 ![video_example](videos/video_example.gif)
